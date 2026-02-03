@@ -8,7 +8,7 @@ Files
 
 * _PremierLeaguePredictor.py_: Data preprocessing, feature engineering, XGBoost training and weekend fixture prediction. Produces a CSV of predicted outcomes.
 
-* _updated_matches.csv_: Matches scrapped by the _premierScrapping.py_
+* _updated_matches.csv_: Matches scrapped by the _premierScrapping.py_ (Not included here)
 
 **Requirements**
 
