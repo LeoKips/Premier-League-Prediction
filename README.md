@@ -31,17 +31,19 @@ Files
 
 **Usage**
 
-* Scrape latest match data (requires Chrome + chromedriver in PATH): python premierScrapping.py
+* Scrape latest match data (requires Chrome + chromedriver in PATH):
+  
+ * python premierScrapping.py
 
-* Output: updated_matches.csv
+ * Output: updated_matches.csv
 
 * Train model & predict fixtures:
 
-* Ensure updated_matches.csv is present in the project folder.
+  * Ensure updated_matches.csv has been scraped and saved in the project folder
 
-* python PremierLeaguePredictor.py
+  * python PremierLeaguePredictor.py
 
-* Output: predicted fixtures
+  * Output: predicted fixtures
 
 **Configuration & Notes**
 
