@@ -18,15 +18,8 @@ Files
 
 **Browser driver**: Chrome + matching chromedriver for selenium.
 
-**Setup**
+**Packages/Requirements**
 
-* Create and activate a virtual environment:
-
-  * PowerShell: python -m venv .venv
-
-  * Activate
-
-* Install packages:
   * pip install selenium beautifulsoup4 pandas xgboost scikit-learn numpy
 
 **Usage**
