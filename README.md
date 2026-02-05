@@ -49,6 +49,4 @@ Files
 
 * _premierScrapping.py_ uses Selenium.
 
-* Paths in _PremierLeaguePredictor.py_ assume CSVs are in the same folder; update paths if different.
-
 * The scraper must respect FBref's terms of use and politeness (rate limits). Use responsibly.
